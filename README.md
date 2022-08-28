@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Java Spring Boot**
 
-- 🌱 I’m currently learning **Spring Boot, React Js**
+- 🌱 I’m currently learning **Spring Boot Microservices, React Js**
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/)
 
-- 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/)
+- 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/) and this is my Youtube Channel [https://www.youtube.com/c/FazalTuts4Uf](https://www.youtube.com/c/FazalTuts4Uf)
 
 - 💬 Ask me about **java, spring, react js and mysql**
 
