@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Spring Boot, Microservices, Rest and SOAP Integration**
 
-- 🌱 I’m currently learning **Application Architecure, ReactJs, NodeJs and Different integration module used in UAE and KSA**
+- 🌱 I’m currently learning **Application Architecure, ReactJs, Angular, NodeJs and Different integration module used in UAE and KSA**
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/) and [https://fazalharoon.netlify.app/](https://fazalharoon.netlify.app/)
 
 - 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/) and this is my Youtube Channel [https://www.youtube.com/c/FazalTuts4Uf](https://www.youtube.com/c/FazalTuts4Uf)
 
-- 💬 Ask me about **Java, Spring, Hibernate, SOAP, Integration, ReactJs, Security, Application Architecure, MyBatis and Database.**
+- 💬 Ask me about **Java, Spring, Hibernate, SOAP, Integration, ReactJs, Angular, Security, Application Architecure, MyBatis and Database.**
 
 - 💬 Ask me about **Technical Design Document (high and low Level), Technical Flow Document and Traceability Matrix Document.**
 
