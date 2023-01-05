@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Spring Boot, Microservices, Rest and SOAP Integration**
 
-- 🌱 I’m currently learning **Application Architecure, ReactJs, Angular, NodeJs and Different integration module used in UAE and KSA**
+- 🌱 I’m currently learning **Application Architecure, ReactJs, Angular+8, NodeJs and Different integration module used in UAE and KSA**
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/) and [https://fazalharoon.netlify.app/](https://fazalharoon.netlify.app/)
 
