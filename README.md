@@ -58,8 +58,8 @@
 <!-- <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Fazal-haroon&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-haroon&layout=compact" />
  -->
-
-| <a href="https://github.com/Fazal-haroon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fazal-haroon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Fazal-haroon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-haroon&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fazal-haroon&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fazal-haroon&theme=buefy)](https://git.io/streak-stats)
+| <a href="https://github.com/Fazal-haroon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fazal-haroon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Fazal-haroon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-haroon&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fazal-haroon" alt="Fazal-haroon" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fazal-haroon&" alt="Fazal-haroon" /></p>
