@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/) and this is my Youtube Channel [https://www.youtube.com/c/FazalTuts4Uf](https://www.youtube.com/c/FazalTuts4Uf)
 
-- 💬 Ask me about **Java · Spring · Hibernate · SOAP · Integration · ReactJs · Angular · Security · Application Architecure · MyBatis · Hibernate · Database.**
+- 💬 Ask me about **Java · Spring · Rest · SOAP · Integration · ReactJs · Angular · Security · Application Architecure · MyBatis · Hibernate · Database.**
 
 - 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document.**
 
