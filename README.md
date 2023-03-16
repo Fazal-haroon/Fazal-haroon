@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Java Developer**
 
-- 🔭 I’m currently working on **Spring Boot · Microservices · Rest · SOAP Integration · Angular+15**
+- 🔭 I’m currently working on **Spring Boot · Microservices · Rest · SOAP Integration · Angular+15 · Fintech**
 
 - 🌱 I’m currently learning **Application Architecure · ReactJs · Angular+8 · NodeJs · Different integration module used in UAE and KSA**
 
