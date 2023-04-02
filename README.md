@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java · Spring · Rest API · SOAP · Integration · ReactJs · Angular · Security · JWT · Application Architecure · MyBatis · Hibernate · JPA · Database.**
 
-- 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document.**
+- 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document · Mokito Regression Testing.**
 
 - 📫 How to reach me **kharoon187@gmail.com**
 
