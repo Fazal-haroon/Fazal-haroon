@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Spring Boot 3 · Microservices · Rest API · SOAP Integration · Angular · FinTech**
 
-- 🌱 I’m currently learning **Application Architecure · React Js · Angular · Node Js · Different Integration module used in UAE and KSA**
+- 🌱 I’m currently learning **Application Architecure · ReactJs · Angular · NodeJs · Different Integration module used in UAE and KSA**
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/) and [https://fazalharoon.netlify.app/](https://fazalharoon.netlify.app/)
 
 - 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/) and this is my Youtube Channel [https://www.youtube.com/c/FazalTuts4Uf](https://www.youtube.com/c/FazalTuts4Uf)
 
-- 💬 Ask me about **Java · SpringBoot · Rest API · SOAP · Integration · React Js · Angular · Security · JWT · Application Architecure · MyBatis · Hibernate · JPA · Database**
+- 💬 Ask me about **Java · SpringBoot · Rest API · SOAP · Integration · ReactJs · Angular · Security · JWT · Application Architecure · MyBatis · Hibernate · JPA · Database**
 
 - 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document · Mokito Regression Testing**
 
