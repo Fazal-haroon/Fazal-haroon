@@ -21,7 +21,9 @@
 
 - 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document · Mokito Regression Testing**
 
-- 📫 How to reach me **kharoon187@gmail.com**
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/fazal-haroon-384b2013a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
+  </a> ·  ·  · **kharoon187@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
