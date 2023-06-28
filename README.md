@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as **Systems Developer**
 
-- 🔭 I’m currently working on **Spring Boot 3 · Microservices · Rest API · SOAP Integration · Angular · FinTech**
+- 🔭 I’m currently working on **Spring Boot 3 · Microservices · Rest API · SOAP Integration · Angular · FinTech · Banking**
 
 - 🌱 I’m currently learning **Application Architecure · React Js · Angular · Node Js · Different Integration module used in UAE and KSA**
 
