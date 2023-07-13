@@ -22,14 +22,14 @@
 
 - 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document · Mokito Regression Testing**
 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/fazal-haroon-384b2013a/">
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/fazalharoon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
   </a> ·  ·  · **kharoon187@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fazalharoon4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fazalharoon4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fazal-haroon-384b2013a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fazal-haroon-384b2013a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fazalharoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fazal-haroon-384b2013a/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fazaltuts4uf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/fazaltuts4uf" height="30" width="40" /></a>
 </p>
 
