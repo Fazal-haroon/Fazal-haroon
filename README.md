@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Spring Boot 3 · Microservices · Rest API · SOAP Integration · Angular · FinTech · Banking**
 
-- 🌱 I’m currently learning **Application Architecure · React Js · Angular · DevOps · Node Js · Domain Knowledge · Software Design Pattern · Different Integration module used in UAE and KSA**
+- 🌱 I’m currently learning **Application Architecure · React Js · Angular · DevOps · Node Js · Software Design Pattern · Different Integration module used in UAE and KSA**
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/) and [https://fazalharoon.netlify.app/](https://fazalharoon.netlify.app/)
 
