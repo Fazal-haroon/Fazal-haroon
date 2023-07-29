@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Java · SpringBoot · Rest API · SOAP · Integration · React Js · Angular · Security · JWT · Application Architecure · MyBatis · Hibernate · JPA · Database · Docker · K8s · CI/CD**
 
-- 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document · Mokito Regression Testing**
+- 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document · Mockito Regression Testing**
 
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/fazalharoon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
