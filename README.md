@@ -8,11 +8,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/fazalharoon4" target="blank"><img src="https://img.shields.io/twitter/follow/fazalharoon4?logo=twitter&style=for-the-badge" alt="fazalharoon4" /></a> </p> -->
 
-- 🔭 I’m currently working as **Systems Engineer**
+- 🔭 I’m currently working as **Systems Developer**
 
 - 🔭 I’m currently working on **Spring Boot 3 · Microservices · Rest API · SOAP Integration · Angular · FinTech · Banking**
 
-- 🌱 I’m currently learning **Application Architecure · React Js · Angular · DevOps · Node Js · Software Design Pattern · Different Integration module**
+- 🌱 I’m currently learning **Application Architecture · React JS · Angular · DevOps · Node JS · Software Design Pattern · Different Integration module**
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/) and [https://fazalharoon.netlify.app/](https://fazalharoon.netlify.app/)
 
