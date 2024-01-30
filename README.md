@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/) and [https://fazalharoon.netlify.app/](https://fazalharoon.netlify.app/)
 
-- 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/) and this is my Youtube Channel [https://www.youtube.com/c/FazalTuts4Uf](https://www.youtube.com/c/FazalTuts4Uf)
+- 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/) and this is my Youtube Channel [https://www.youtube.com/@fazaltechworld](https://www.youtube.com/@FazalTechWorld))
 
 - 💬 Ask me about **Java · SpringBoot · Rest API · SOAP · Integration · React Js · Angular · Security · JWT · Application Architecure · MyBatis · Hibernate · JPA · Database · Docker · K8s · CI/CD**
 
